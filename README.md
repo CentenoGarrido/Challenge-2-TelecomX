@@ -1,1 +1,1 @@
-"# Challenge-2-TelecomX" 
+# Challenge-2-TelecomX
